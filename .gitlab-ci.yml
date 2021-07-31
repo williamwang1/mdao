@@ -3,4 +3,4 @@ stages:
 
 unit-tests:
   script:
-    - echo "Success. Add your tests"
+    - echo "Success. Add your tests!!"
