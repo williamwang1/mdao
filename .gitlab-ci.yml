@@ -1,0 +1,6 @@
+stages:
+  - test
+
+unit-tests:
+  script:
+    - echo "Success. Add your tests!"
