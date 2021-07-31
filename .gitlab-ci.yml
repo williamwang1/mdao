@@ -2,7 +2,5 @@ stages:
   - test
 
 unit-tests:
-  tags:
-    - local
   script:
     - echo "Success. Add your tests!"
